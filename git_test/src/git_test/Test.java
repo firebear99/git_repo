@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("hello world");
 		System.out.println("Modify Test");
 		System.out.println("Commit Test");
+		System.out.println("CommitCommitd Test");
 	}
 }
